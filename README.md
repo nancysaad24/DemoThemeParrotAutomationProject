@@ -1,6 +1,6 @@
 # DemoThemeParrotAutomationProject
 
-The objective of this project is to automate a test scenario in demo.themeparrot website --> [https://www.booking.com/](http://demo.themeparrot.com/shopy/)
+The objective of this project is to automate a test scenario in demo.themeparrot website --> (http://demo.themeparrot.com/shopy/)
 
 ## Requirements
 
